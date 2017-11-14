@@ -4,6 +4,21 @@
 
     
   <url>
+    <loc>http://yoursite.com/2017/11/14/The-First-Article/</loc>
+    <lastmod>2017-11-14T04:37:13.481Z</lastmod>
+    <data>
+        <display>
+        <title>The First Article</title>
+        <pubTime>2017-11-14T04:36:17.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2017/11/07/hello-world/</loc>
     <lastmod>2017-11-07T04:43:03.422Z</lastmod>
     <data>
